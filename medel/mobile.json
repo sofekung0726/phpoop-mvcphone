@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name":"IPONE 13",
+        "price":30000,
+        "os":"IOS15",
+        "imges":"iphon13.jfif"
+    },
+    {
+        "id": 2,
+        "name":"Samsung S23 Ultra",
+        "price":35900,
+        "os":"android13",
+        "imges":"samsungs23ultra.avif"
+    },
+    {
+        "id": 3,
+        "name":"Asus ROG 5",
+        "price":25900,
+        "os":"android10",
+        "imges":"asusrog5.jpg"
+    }
+]
+
+    
+
